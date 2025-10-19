@@ -7,3 +7,8 @@ https://roadmap.sh/projects/single-page-cv
 -How to use semantic HTML
 -How to add meta and Open Graph tags
 -How to structure CV webpage for future css styling
+
+https://github.com/Alone-xoxo/simple-cv-project
+
+[view website](https://alone-xoxo.github.io/simple-cv-project/
+)
