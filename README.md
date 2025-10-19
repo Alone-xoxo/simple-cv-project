@@ -10,5 +10,5 @@ https://roadmap.sh/projects/single-page-cv
 
 https://github.com/Alone-xoxo/simple-cv-project
 
-[view website](https://alone-xoxo.github.io/simple-cv-project/
+[view website](https://Alone-xoxo.github.io/simple-cv-project/
 )
